@@ -163,6 +163,6 @@ body{
         content: '_';
         display: block;
        background-color: white;
-       font-size: 0.6px;
+       font-size: 1px;
     }
 }
