@@ -44,11 +44,9 @@ body{
     margin-left: 10%;
     color: white;
 }
-.current a::after{
-    content: '_';
-    display: block;
-   background-color: white;
-   font-size: 2px;
+.current a{
+   border: 1px solid black;
+   padding: 2px;
 }
 .wraper{
     display: grid;
@@ -159,10 +157,5 @@ body{
         font-size: 45px;
         overflow: hidden;
     }
-    .current a::after{
-        content: '_';
-        display: block;
-       background-color: white;
-       font-size: 1px;
-    }
+   
 }
