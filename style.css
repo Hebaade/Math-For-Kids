@@ -22,6 +22,7 @@
 }
 .container ul li{
     list-style: none;
+    margin:5px 0;
 }
 .container ul{
     margin-left: 60%;
